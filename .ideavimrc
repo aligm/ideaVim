@@ -1,0 +1,8 @@
+set incsearch
+set hlsearch
+nnoremap <space> :nohlsearch<CR>
+set number
+set relativenumber
+set cursorline
+
+
